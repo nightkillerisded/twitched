@@ -1,7 +1,6 @@
-# pajbot ![Python 4HEad](https://github.com/pajbot/pajbot/workflows/Python%204HEad/badge.svg)
+## Nightbot
 
-pajbot is a twitch chat bot created by [pajlada](http://twitch.tv/pajlada).  
-[Website](https://pajbot.com)
+Nightbot is a twitch chat bot created by Night.
 
 Note: pajbot is in **maintenance mode**.
 This means we focus on keeping the project alive by not allowing major overhauls of any pajbot system or any major features.
@@ -17,4 +16,4 @@ Current minimal supported Python version is **3.8**.
 
 ## Detailed install
 
-You can find a detailed installation guide for **pajbot** in the [`install-docs` directory](./install-docs) of this repository.
+You can find a detailed installation guide for **Nightbot** in the [`install-docs` directory](./install-docs) of this repository.
